@@ -1,4 +1,9 @@
-# Implementation of Deep Joint Source-Channel Coding for Wireless Image Transmission (D-JSCC) - https://arxiv.org/abs/1809.01733
+# Implementation of Deep Joint Source-Channel Coding for Wireless Image Transmission (D-JSCC) 
+
+```
+https://arxiv.org/abs/1809.01733
+
+```
 
 # Basic libraries/Dependencies (must) 
 ```
