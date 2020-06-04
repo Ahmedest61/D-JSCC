@@ -26,6 +26,6 @@ Eclipse configured with pydev
 ## Usage:
 
 ```
-python d_jscc_ahmad.py --help
+python main.py --help
 
 ```
