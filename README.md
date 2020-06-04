@@ -1,9 +1,6 @@
-# Implementation of Deep Joint Source-Channel Coding for Wireless Image Transmission (D-JSCC) 
+# Tensorflow implementation of D-JSCC
+[Deep Joint Source-Channel Coding for Wireless Image Transmission](https://arxiv.org/abs/1809.01733)
 
-```
-https://arxiv.org/abs/1809.01733
-
-```
 
 # Basic libraries/Dependencies (must) 
 ```
